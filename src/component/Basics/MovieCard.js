@@ -1,12 +1,7 @@
 import React from "react";
-// import chooseHall from "./chooseHall";
-// import {userHistory} from "react-dom"
-// import ReactDOM from "react-dom";
+
 
 const MovieCard = ({ menuData }) => {
-
-  // let history = userHistory()
-  //   console.log(menuData);
 
   return (
     <>
@@ -31,13 +26,16 @@ const MovieCard = ({ menuData }) => {
                   </div>
                   <img src={image} alt="images" className="card-media" />
                   <switch>
-                  <a href="D:\test\complete_react2021\public\images\form.html">
-                  <span className="card-tag  subtle">
+                  {/* <a href="D:\test\complete_react2021\public\images\form.html"> */}
+                  <button className="card-tag  subtle">
+                 
           
-                      Book Now </span>
+                      Watch Now  </button> 
+                      {/* <button className="button-style">Watch Now</button> */}
+                     
                 
                   ``
-                 </a>
+                 {/* </a> */}
                  </switch>
                  
                 </div>

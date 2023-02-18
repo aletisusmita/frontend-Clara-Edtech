@@ -1,85 +1,75 @@
 const Movies = [
     {
       id: 1,
-      image: "images/bollywood1.jpeg",
-      name: "Shubh Mangal Saavdhan",
-      category: "bollywood",
-      price: "12₹",
+      image: "images/action3.jpeg",
+      name: "Saaho",
+      category: "Action",
       description:
-        "A shy boy, Mudit, manages to woo Sugandha and the two decide to get married. However, before the wedding, their relationship undergoes a setback as they discover his erectile dysfunction. ",
+      "An undercover agent and his partner go after a thief who has stolen 2,000 crore rupees. Soon, they realise that the case is linked to the death of a crime lord and an emerging gang war."
     },
   
     {
       id: 2,
-      image: "images/bollywood2.jpeg",
-      name: "Lagaan",
-      category: "bollywood",
-      price: "20₹",
+      image: "images/action2.jpeg",
+      name: "KGF",
+      category: "Action",
       description:
-        " During the British Raj, a farmer named Bhuvan accepts the challenge of Captain Andrew Russell to beat his team in a game of cricket and enable his village to not pay taxes for the next three years. ",
+     "Rocky, a young man, seeks power and wealth in order to fulfil a promise to his dying mother. His quest takes him to Mumbai, where he gets involved with the notorious gold mafia."
     },
     {
       id: 3,
-      image: "images/bollywood3.jpeg",
-      name: "Bhool Bhulaiyaa",
-      category: "bollywood",
-      price: "10₹",
+      image: "images/action4.jpeg",
+      name: "Pushpa",
+      category: "Action",
       description:
-        "After an accident, Ruhan agrees to accompany Reet back home. However, due to a series of untimely incidents, he gets caught up in her family's skirmish. ",
+        "A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business. ",
     },
     {
       id: 4,
-      image: "../images/hollywood1.jpeg",
-      name: "Pirates of the Caribbean",
-      category: "Hollywood",
-      price: "50₹",
+      image: "../images/thriller2.jpeg",
+      name: "Vikram",
+      category: "Thriller",
       description:
-        "Pirates of the Caribbean is an American fantasy swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park",
-    },
+       "A special agent investigates a murder committed by a masked group of serial killers. However, a tangled maze of clues soon leads him to the drug kingpin of Chennai."    },
     {
       id: 5,
-      image: "../images/WhatsApp Image 2022-10-31 at 19.14.21.jpeg",
-      name: "Joker",
-      category: "Hollywood",
-      price: "80₹",
+      image: "../images/thriller3.jpeg",
+      name: "Yashoda",
+      category: "Thriller",
       description:
-        "The Joker is a supervillain appearing in American comic books published by DC Comics. The character was created by Bill Finger, Bob Kane, and Jerry Robinson, and first appeared in the debut issue of the comic book Batman on April 25, 1940. ",
+      "Surrogate mother Yashodha is advised to follow a few guidelines to keep herself and her baby healthy and safe, but something happens at the surrogate centre that puts both of them at risk"
     },
     {
       id: 6,
-      image: "../images/hollywood3.jpeg",
-      name: "The Incredible India Hulk",
-      category: "Hollywood",
-      price: "180₹",
+      image: "../images/thriller1.jpeg",
+      name: "ThursDay",
+      category: "Thriller",
       description:
-        "The film explores Bruce Banner's origins. After a lab accident involving gamma radiation, he transforms into a giant, green-skinned creature known as the Hulk ",
+      "One fateful Thursday in the city of Mumbai invites tremendous horror when Naina, a nursery school teacher, holds 16 children hostage and produces a list of unfathomable demands."
     },
     {
       id: 7,
-      image: "../images/tollywood.jpeg",
-      name: "Pushpa",
-      category: "Tollywood",
-      price: "60₹",
+      image: "../images/comdey2.jpeg",
+      name: "Phir Hera Pheri",
+      category: "Comdey",
       description:
-        "A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business ",
+      "A twist of fate changes the lives of Raju, Shyam and Baburao when they get cheated by a fraudster. They must now find another way to repay the loan taken from a dreaded gangster."
     },
     {
       id: 8,
-      image: "../images/tollywood2.jpeg",
-      name: "Uppena",
-      category: "Tollywood",
-      price: "60₹",
+      image: "../images/comdey3.jpeg",
+      name: "Shubh Mangal Saavdhan",
+      category: "Comdey",
       description:
-        "Aasirvadham, a fisherman, falls in love with Sangeetha, the daughter of the village head. However, complications arise when caste differences and ego issues take the lead. ",
+      "A shy boy, Mudit, manages to woo Sugandha and the two decide to get married. However, before the wedding, their relationship undergoes a setback as they discover his erectile dysfunction"
     },
     {
       id: 9,
-      image: "../images/tollywood3.jpeg",
-      name: "Aranya",
-      category: "Tollywood",
-      price: "10₹",
-      description:
-        "Aranya is a true-blue animal film signifying a deep and strong bond between humans and animals. Aranya is a true-blue animal film signifying a deep and strong bond between humans and animals. Aranya is a true-blue animal film signifying a deep and strong bond between humans and animals. ",
+      image: "../images/comdey1.jpeg",
+      name: "Jathi Ratnalu",
+      category: "Comdey",
+     description:
+        "Three young men leave their village to find decent jobs in the city. However, they find themselves in a pickle when a minister blackmails them for a lost mobile phone."
     },
   ];
   
